@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&family=Roboto+Condensed&display=swap');
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+}
+#container
+{
+    text-align: center;
+}
+
+#value
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    font-size: 500%;
+
+}
+
+button
+{
+    background-color: lightslategray;
+    padding: 0.7rem 1.5rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
